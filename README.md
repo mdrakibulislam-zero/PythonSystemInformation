@@ -1,5 +1,5 @@
 ## Python System Information:
-This is a simple system information finder program based on Python. It's able to find lots of system information.
+This is a simple system information finder program based on Python. It's able to find CPU, GPU, Network, Memory, Disk and others system information.
 
 
 ## Outcome:
@@ -31,7 +31,7 @@ Python Datetime module supplies classes to work with date and time. These classe
 ## Usage:
 - First of all you need to install all required packages. 
 - Then run the SystemInformation.py file.
-- You're done! Enjoy the system information finder.
+- You're done! Enjoy the system information finder program.
 
 
 ## Tutorial:
